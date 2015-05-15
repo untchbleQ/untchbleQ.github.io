@@ -1,0 +1,8 @@
+hl {
+	color: blue;
+	font-family: sans-serif, arial;
+}
+
+p{
+	color: green;
+}
