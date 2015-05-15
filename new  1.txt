@@ -1,8 +1,8 @@
 h1 {
-	color: blue;
+	color: BLUE;
 	font-family: sans-serif, arial;
 }
 
 p{
-	color: green;
+	color: GREEN;
 }
